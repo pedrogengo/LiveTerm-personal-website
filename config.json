@@ -1,21 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/pedrogengo/pedrogengo/master/README.md",
+  "title": "Pedro Gengo ",
+  "name": "Pedro Gengo",
+  "ascii": "cveinnt",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "pedrogengo",
+    "linkedin": "pedrogengo"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "pedro.gengo.lourenco@gmail.com",
+  "ps1_hostname": "pedrowebsite",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/pedrogengo",
+  "resume_url": "https://drive.google.com/file/d/1ghcxJoLEiZpgBRURG7SIJ5T1kqqJmdp-/view?usp=sharing",
   "colors": {
     "light": {
       "background": "#FBF1C9",
